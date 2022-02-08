@@ -1,0 +1,27 @@
+body{
+    background-color:#ECF0F1;
+    background-image: url(img/pattern1.jpg);
+}
+
+/* Identificador especifico */
+#caja{
+    color:#283747;
+    border: 3px solid #2E4053;
+    background: #F9E79F;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* Identificador especifico */
+#caja2{
+    border: 2px solid #2E4053;
+    color:#283747;
+    background: #ECF0F1;
+    padding: 10px;
+    line-height: 20px;
+}
+
+#imgTest{
+    width: 250px;
+}
