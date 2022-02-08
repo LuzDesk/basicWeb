@@ -1,0 +1,36 @@
+/* Importa fuentes -- GoggleFonts */
+@font-face {
+    font-family: RobotoCondensed;
+    src: url(fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf);
+}
+/* font-family:  Robo; */
+
+body{
+    background: #F8F9F9;
+}
+
+h1{
+    font-family: RobotoCondensed;
+}
+
+/* 1em: 16px */
+h3{
+    font-family: RobotoCondensed;
+    font-size: 20px;
+}
+
+p{
+    font-family: RobotoCondensed;
+    font-size: 18px;
+    color:blueviolet
+}
+
+/* Colores - color:blueviolet */
+/* Colores del Sistema */
+
+/* Colores RGB - RGB(33, 47, 60)*/
+
+/* Colores RGBA - RGBA(215,44,44,1)*/
+
+/* Colores hexadecimales - #212F3C  */
+

@@ -8,13 +8,13 @@ body{
     margin:0px 0px 0px 0px;
     padding:0px 0px 0px 0px;
 }
-
+/*Selector fijo*/
 header{
     background: #633974;
     color:white;
     margin: 5px 20px 0px 20px;
     padding: 20px;
-    align-content: center;
+    text-align: center;
 }
 
 nav{
@@ -43,10 +43,12 @@ li a {
     text-decoration: none;
 }
 
+/*Selector hijo*/
 li a:hover:not(.active){
     background-color: #A569BD;
 }
 
+/* Selector clase que puede heredarse*/
 .active {
     background-color: #76448A;
 }
@@ -64,4 +66,8 @@ footer{
     background-color: #EBEDEF;
     color: #283747;
     text-align: center;
+}
+
+#Texto{
+
 }
